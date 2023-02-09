@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome, my name is Keith Railey 👋
+
+I'm an extremely driven IT professional who is passionate about Cloud Technologies & AI.
+
+I'm a [Power Platform](https://powerplatform.microsoft.com/) developer.
 
 <!--
 **KeithHR/KeithHR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
