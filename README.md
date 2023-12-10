@@ -2,10 +2,10 @@
 
 I'm an extremely driven IT professional who is passionate about Cloud Technologies & AI.
 
-I'm a :technologist: [Power Platform](https://powerplatform.microsoft.com/) developer.
+I'm a :technologist: [Power Platform](https://powerplatform.microsoft.com/) Developer.
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/khrailey) | [dev.to](https://dev.to/keithhr)
-- 🌱 I’m currently learning: 📖 How to be a Microsoft Certified Power Platform Developer.
+- 🌱 I’m currently learning: 📖 How to be a Microsoft Certified Power Platform Developer and Solutions Architect.
 - ⚡ Fun facts: 🎮 I'm an avid gamer and 💪 Fitness enthusiast.
 <!--
 **KeithHR/KeithHR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
