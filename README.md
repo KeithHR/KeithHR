@@ -2,7 +2,7 @@
 
 I'm an extremely driven IT professional who is passionate about Cloud Technologies & AI.
 
-I'm a :technologist: [Power Platform](https://powerplatform.microsoft.com/) Developer.
+I'm a :technologist: [Power Platform](https://powerplatform.microsoft.com/) Developer & [Solutions Architect](https://learn.microsoft.com/en-us/credentials/certifications/power-platform-solution-architect-expert/).
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/khrailey) | [dev.to](https://dev.to/keithhr)
 - 🌱 I’m currently learning: 📖 Azure and AI. How to extend Power Platform with Azure Services and AI. Prepping for AZ 204
